@@ -1,6 +1,3 @@
-# LeetCode
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
-
 # LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AceHunterr?theme=unicorn)
 <!---LeetCode Topics Start-->
