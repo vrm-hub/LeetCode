@@ -29,18 +29,5 @@ class Solution {
         }
 
         return true;
-
-        // if(charCount.size() == 0) {
-        //     return true;
-        // } else {
-        //     for (Map.Entry<Character, Integer> set :
-        //      charCount.entrySet()) {
- 
-        //     // Printing all elements of a Map
-        //     System.out.println(set.getKey() + " = "
-        //                        + set.getValue());
-        // }
-        //     return false;
-        // }
     }
 }
