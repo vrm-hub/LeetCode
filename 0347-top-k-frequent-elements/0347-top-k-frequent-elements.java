@@ -10,19 +10,24 @@ class Solution {
             }
         }
 
-        PriorityQueue<Map.Entry<Integer, Integer>> minHeap = new PriorityQueue<>((a,b) -> a.getValue() - b.getValue());
-        for (Map.Entry<Integer, Integer> set : freqMap.entrySet()) {
-            minHeap.offer(set);
-
-            if(minHeap.size() > k) {
-                minHeap.poll();
-            }
+        List<Integer>[] buckets = new List[nums.length + 1];
+        for (int i = 0; i < buckets.length; i++) {
+            buckets[i] = new ArrayList<>();
+        }
+        
+        for(Map.Entry<Integer,Integer> set : freqMap.entrySet()) {
+            buckets[set.getValue()].add(set.getKey());
         }
 
         int[] result = new int[k];
-        int index = 0;
-        while (!minHeap.isEmpty()) {
-            result[index++] = minHeap.poll().getKey();
+        for(int j=0, i = buckets.length - 1; i >= 0; i--) {
+            for(Integer p : buckets[i]) {
+                result[j] = p;
+                j++;
+                if(j == k) {
+                    return result;
+                }
+            }
         }
 
         return result;
