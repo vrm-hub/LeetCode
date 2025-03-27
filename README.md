@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/vrm-hub/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/vrm-hub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/vrm-hub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vrm-hub/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [0217-contains-duplicate](https://github.com/vrm-hub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vrm-hub/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vrm-hub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vrm-hub/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Sorting
 |  |
 | ------- |
@@ -24,6 +26,7 @@
 | [0217-contains-duplicate](https://github.com/vrm-hub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vrm-hub/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vrm-hub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vrm-hub/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## String
 |  |
 | ------- |
@@ -37,6 +40,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vrm-hub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vrm-hub/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -49,4 +53,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vrm-hub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vrm-hub/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Simulation
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vrm-hub/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
