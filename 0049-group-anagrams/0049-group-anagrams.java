@@ -14,12 +14,12 @@ class Solution {
             }
         }
 
-        List<List<String>> result = new ArrayList<>();
-        for(Map.Entry<String, List<String>> entry : map.entrySet()) {
-            result.add(entry.getValue());
-        }
+        // List<List<String>> result = new ArrayList<>();
+        // for(Map.Entry<String, List<String>> entry : map.entrySet()) {
+        //     result.add(entry.getValue());
+        // }
 
-        return result;
+        return new ArrayList<>(map.values());
         
     }
 }
