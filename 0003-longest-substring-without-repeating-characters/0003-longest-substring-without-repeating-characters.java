@@ -1,9 +1,5 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        if(s.length() < 2) {
-            return s.length();
-        }
-
         int l = 0;
         int i = 0;
         String subStr = "";
