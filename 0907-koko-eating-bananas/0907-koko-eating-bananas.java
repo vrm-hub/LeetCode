@@ -8,7 +8,11 @@ class Solution {
             int mid = (l + r)/2;
             long t= 0;
             for(int i = 0; i <= piles.length - 1; i++) {
-                 t += (piles[i] + mid - 1) / mid;
+                if(piles[i]%mid != 0) {
+                    t = t + piles[i]/mid + 1;
+                } else {
+                    t = t + piles[i]/mid;
+                }
             }
 
             if(t <= h) {
