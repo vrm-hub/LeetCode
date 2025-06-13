@@ -27,6 +27,7 @@
 | [0049-group-anagrams](https://github.com/vrm-hub/LeetCode/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/vrm-hub/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/vrm-hub/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/vrm-hub/LeetCode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/vrm-hub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vrm-hub/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vrm-hub/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -121,6 +122,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/vrm-hub/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/vrm-hub/LeetCode/tree/master/0155-min-stack) |
 ## Math
 |  |
@@ -139,6 +141,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/vrm-hub/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/vrm-hub/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/vrm-hub/LeetCode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/vrm-hub/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/vrm-hub/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vrm-hub/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -153,4 +156,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/vrm-hub/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/vrm-hub/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
