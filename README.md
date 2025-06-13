@@ -56,10 +56,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vrm-hub/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/vrm-hub/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/vrm-hub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vrm-hub/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/vrm-hub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vrm-hub/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
@@ -138,6 +140,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/vrm-hub/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vrm-hub/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/vrm-hub/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/vrm-hub/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/vrm-hub/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/vrm-hub/LeetCode/tree/master/0143-reorder-list) |
@@ -160,4 +163,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/vrm-hub/LeetCode/tree/master/0146-lru-cache) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vrm-hub/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
