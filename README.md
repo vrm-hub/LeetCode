@@ -19,6 +19,7 @@
 | [0238-product-of-array-except-self](https://github.com/vrm-hub/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/vrm-hub/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0287-find-the-duplicate-number](https://github.com/vrm-hub/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/vrm-hub/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/vrm-hub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/vrm-hub/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/vrm-hub/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -134,6 +135,7 @@
 | [0146-lru-cache](https://github.com/vrm-hub/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/vrm-hub/LeetCode/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/vrm-hub/LeetCode/tree/master/0271-encode-and-decode-strings) |
+| [0303-range-sum-query-immutable](https://github.com/vrm-hub/LeetCode/tree/master/0303-range-sum-query-immutable) |
 ## Math
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vrm-hub/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/vrm-hub/LeetCode/tree/master/0303-range-sum-query-immutable) |
 ## Union Find
 |  |
 | ------- |
