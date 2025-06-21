@@ -31,7 +31,7 @@ class Solution {
         }
 
         if(mid < nums.length - 1 && nums[mid + 1] == target) {
-            return rbinarySearch(mid + 1, nums.length, nums, target);
+            return rbinarySearch(mid + 1, r, nums, target);
         }
 
         return mid;
