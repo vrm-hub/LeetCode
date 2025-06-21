@@ -1,48 +1,33 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        int medianIndex1 = -2;
-        int medianIndex2 = -2;
-        int m1, m2;
-        if((nums1.length + nums2.length) %2 == 0) {
-            medianIndex1 = (nums1.length + nums2.length) / 2 - 1;
-            medianIndex2 = (nums1.length + nums2.length) / 2;
-        } else {
-            medianIndex1 = (nums1.length + nums2.length) / 2;
-        }
-        int[] arr = new int[nums1.length + nums2.length];
-        int i = 0, j = 0, c = 0; 
-        while(i < nums1.length && j < nums2.length) {
-            if(nums1[i] <= nums2[j]) {
-                arr[c] = nums1[i];
-                i++;
-            } else { 
-                arr[c] = nums2[j];
-                j++;
+        int i = 0;
+        int l = 0, r = 0;
+        int len1 = nums1.length, len2 = nums2.length;
+        int m = (len1 + len2) / 2;
+        int median1 = 0, median2 = 0;
+    
+        while(i < m + 1) {
+            median2 = median1;
+            if (l < len1 && r < len2) {
+                if (nums1[l] > nums2[r]) {
+                    median1 = nums2[r];
+                    r++;
+                } else {
+                    median1 = nums1[l];
+                    l++;
+                }
+            } else if (l < len1) {
+                median1 = nums1[l];
+                l++;
+            } else {
+                median1 = nums2[r];
+                r++;
             }
-
-            c++;
+            i++;
         }
 
-        if(i >= nums1.length) {
-            while(j < nums2.length) {
-                arr[c] = nums2[j];
-                j++;
-                c++;
-            }
-        } else if(j >= nums2.length) {
-            while(i < nums1.length) {
-                arr[c] = nums1[i];
-                i++;
-                c++;
-            }
-        }
+        if((len1 + len2) % 2 == 0) return (double)(median1 + median2) / 2;
 
-
-        
-        if(medianIndex2 != -2) {
-            return (double) (arr[medianIndex1] + arr[medianIndex2])/2;
-        } else {
-            return (double) arr[medianIndex1];
-        }
+        return median1;
     }
 }
