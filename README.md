@@ -22,6 +22,7 @@
 | [0287-find-the-duplicate-number](https://github.com/vrm-hub/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/vrm-hub/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/vrm-hub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0739-daily-temperatures](https://github.com/vrm-hub/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/vrm-hub/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/vrm-hub/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vrm-hub/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -132,6 +133,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/vrm-hub/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vrm-hub/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/vrm-hub/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/vrm-hub/LeetCode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -193,4 +195,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vrm-hub/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/vrm-hub/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
