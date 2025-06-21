@@ -25,6 +25,7 @@
 | [0287-find-the-duplicate-number](https://github.com/vrm-hub/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/vrm-hub/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/vrm-hub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/vrm-hub/LeetCode/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vrm-hub/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/vrm-hub/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/vrm-hub/LeetCode/tree/master/0792-binary-search) |
@@ -56,6 +57,7 @@
 | [0217-contains-duplicate](https://github.com/vrm-hub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vrm-hub/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vrm-hub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/vrm-hub/LeetCode/tree/master/0414-third-maximum-number) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vrm-hub/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## String
 |  |
