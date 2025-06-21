@@ -25,6 +25,7 @@
 | [0287-find-the-duplicate-number](https://github.com/vrm-hub/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/vrm-hub/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/vrm-hub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0540-single-element-in-a-sorted-array](https://github.com/vrm-hub/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/vrm-hub/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/vrm-hub/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/vrm-hub/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -119,6 +120,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vrm-hub/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vrm-hub/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/vrm-hub/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/vrm-hub/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/vrm-hub/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/vrm-hub/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Dynamic Programming
