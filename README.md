@@ -55,6 +55,7 @@
 | [0242-valid-anagram](https://github.com/vrm-hub/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vrm-hub/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vrm-hub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/vrm-hub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vrm-hub/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vrm-hub/LeetCode/tree/master/0567-permutation-in-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vrm-hub/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -79,6 +80,7 @@
 | [0076-minimum-window-substring](https://github.com/vrm-hub/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/vrm-hub/LeetCode/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/vrm-hub/LeetCode/tree/master/0271-encode-and-decode-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/vrm-hub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/vrm-hub/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/vrm-hub/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/vrm-hub/LeetCode/tree/master/0443-string-compression) |
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vrm-hub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/vrm-hub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -309,4 +312,8 @@
 |  |
 | ------- |
 | [0077-combinations](https://github.com/vrm-hub/LeetCode/tree/master/0077-combinations) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vrm-hub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
