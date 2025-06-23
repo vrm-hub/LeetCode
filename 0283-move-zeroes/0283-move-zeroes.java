@@ -1,18 +1,19 @@
 class Solution {
+    private void swap(int[] nums, int l, int r) {
+        int temp = nums[r];
+        nums[r] = nums[l];
+        nums[l] = temp;
+    }
     public void moveZeroes(int[] nums) {
-        int l = 0, r = 1;
+        int l = 0;
 
-        while(l < nums.length) {
-            r = l + 1;
+        while(l < nums.length - 1) {
+            int r = l + 1;
             if(nums[l] == 0) {
-                while(r < nums.length && nums[r] == 0) {
+                while(r < nums.length - 1 && nums[r] == 0) {
                     r++;
                 }
-                if(r < nums.length) {
-                    int temp = nums[r];
-                    nums[r] = nums[l];
-                    nums[l] = temp;
-                }
+                swap(nums, l, r);
             }
             l++;
         }
