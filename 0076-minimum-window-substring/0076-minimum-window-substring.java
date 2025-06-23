@@ -12,8 +12,8 @@ class Solution {
         int target = tMap.size();
         int counter = 0;
 
-        int begin = 0 , end = 0, minSize = -1;
-        int b = 0, e = 0;
+        int begin = 0 , end = 0;
+        int minLen = Integer.MAX_VALUE, minStart = 0;;
         HashMap<Character, Integer> sMap = new HashMap<>();
         while(end < s.length()) {
             char c = s.charAt(end);
@@ -25,10 +25,9 @@ class Solution {
             }
 
             while(begin <= end && counter == target) {
-                if(minSize == -1 || end - begin + 1 < minSize) {
-                    minSize = end - begin + 1;
-                    b = begin;
-                    e = end;
+                if(end - begin + 1 < minLen) {
+                    minLen = end - begin + 1;
+                    minStart = begin;
                 }
 
                 char ch = s.charAt(begin);
@@ -41,6 +40,6 @@ class Solution {
             end++;
         }
 
-        return minSize == -1 ? "" : s.substring(b, e + 1);
+        return minLen == Integer.MAX_VALUE ? "" : s.substring(minStart, minStart + minLen);
     }
 }
