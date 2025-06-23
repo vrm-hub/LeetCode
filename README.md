@@ -75,6 +75,7 @@
 | [0076-minimum-window-substring](https://github.com/vrm-hub/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/vrm-hub/LeetCode/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/vrm-hub/LeetCode/tree/master/0271-encode-and-decode-strings) |
+| [0412-fizz-buzz](https://github.com/vrm-hub/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/vrm-hub/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/vrm-hub/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/vrm-hub/LeetCode/tree/master/0567-permutation-in-string) |
@@ -112,6 +113,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/vrm-hub/LeetCode/tree/master/0412-fizz-buzz) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vrm-hub/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Two Pointers
 |  |
@@ -177,6 +179,7 @@
 | [0002-add-two-numbers](https://github.com/vrm-hub/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/vrm-hub/LeetCode/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vrm-hub/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0412-fizz-buzz](https://github.com/vrm-hub/LeetCode/tree/master/0412-fizz-buzz) |
 ## Matrix
 |  |
 | ------- |
