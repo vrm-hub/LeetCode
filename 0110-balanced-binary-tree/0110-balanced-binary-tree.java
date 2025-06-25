@@ -13,27 +13,23 @@
  *     }
  * }
  */
- class Solution {
-    private int helper(TreeNode root, boolean[] b) {
-        if(root == null) return 0;
-        if(!b[0]) {
-            return 0;
-        }
+class Solution {
+    boolean[] res = new boolean[1];
+    private int dfs(TreeNode root, int level){
+        if(root == null || !res[0]) return 0;
 
-        int left = helper(root.left, b);
-        int right = helper(root.right, b);
+        int left = dfs(root.left, level);
+        int right = dfs(root.right, level);
 
-        if (Math.abs(left - right) > 1) {
-            b[0] = false;
-        }
+        if(Math.abs(left - right) > 1) res[0] = false;
 
         return 1 + Math.max(left, right);
     }
     public boolean isBalanced(TreeNode root) {
-        if(root == null) return true;
-        boolean[] b = new boolean[] {true};
+        res[0] = true;
+        if(root == null) return res[0];
 
-        helper(root, b);
-        return b[0];
+        dfs(root, 0);
+        return res[0];
     }
 }
