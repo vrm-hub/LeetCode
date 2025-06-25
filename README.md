@@ -269,6 +269,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vrm-hub/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vrm-hub/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vrm-hub/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/vrm-hub/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -287,6 +288,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vrm-hub/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vrm-hub/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vrm-hub/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/vrm-hub/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -302,6 +304,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vrm-hub/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vrm-hub/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vrm-hub/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/vrm-hub/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -316,6 +319,7 @@
 | [0226-invert-binary-tree](https://github.com/vrm-hub/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vrm-hub/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/vrm-hub/LeetCode/tree/master/1036-rotting-oranges) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/vrm-hub/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
