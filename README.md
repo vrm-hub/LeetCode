@@ -32,6 +32,7 @@
 | [0287-find-the-duplicate-number](https://github.com/vrm-hub/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/vrm-hub/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/vrm-hub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0348-design-tic-tac-toe](https://github.com/vrm-hub/LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0414-third-maximum-number](https://github.com/vrm-hub/LeetCode/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vrm-hub/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/vrm-hub/LeetCode/tree/master/0739-daily-temperatures) |
@@ -58,6 +59,7 @@
 | [0242-valid-anagram](https://github.com/vrm-hub/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vrm-hub/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vrm-hub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0348-design-tic-tac-toe](https://github.com/vrm-hub/LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0387-first-unique-character-in-a-string](https://github.com/vrm-hub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vrm-hub/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vrm-hub/LeetCode/tree/master/0567-permutation-in-string) |
@@ -125,6 +127,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0348-design-tic-tac-toe](https://github.com/vrm-hub/LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0412-fizz-buzz](https://github.com/vrm-hub/LeetCode/tree/master/0412-fizz-buzz) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vrm-hub/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Two Pointers
@@ -189,6 +192,7 @@
 | [0155-min-stack](https://github.com/vrm-hub/LeetCode/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/vrm-hub/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0303-range-sum-query-immutable](https://github.com/vrm-hub/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0348-design-tic-tac-toe](https://github.com/vrm-hub/LeetCode/tree/master/0348-design-tic-tac-toe) |
 ## Math
 |  |
 | ------- |
@@ -202,6 +206,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/vrm-hub/LeetCode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/vrm-hub/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0348-design-tic-tac-toe](https://github.com/vrm-hub/LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [1036-rotting-oranges](https://github.com/vrm-hub/LeetCode/tree/master/1036-rotting-oranges) |
 ## Linked List
 |  |
