@@ -63,6 +63,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/vrm-hub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vrm-hub/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vrm-hub/LeetCode/tree/master/0567-permutation-in-string) |
+| [0778-reorganize-string](https://github.com/vrm-hub/LeetCode/tree/master/0778-reorganize-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vrm-hub/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Sorting
 |  |
@@ -76,6 +77,7 @@
 | [0268-missing-number](https://github.com/vrm-hub/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vrm-hub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/vrm-hub/LeetCode/tree/master/0414-third-maximum-number) |
+| [0778-reorganize-string](https://github.com/vrm-hub/LeetCode/tree/master/0778-reorganize-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vrm-hub/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## String
 |  |
@@ -91,6 +93,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/vrm-hub/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/vrm-hub/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/vrm-hub/LeetCode/tree/master/0567-permutation-in-string) |
+| [0778-reorganize-string](https://github.com/vrm-hub/LeetCode/tree/master/0778-reorganize-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -104,6 +107,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vrm-hub/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/vrm-hub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/vrm-hub/LeetCode/tree/master/0778-reorganize-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vrm-hub/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
 |  |
@@ -114,6 +118,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vrm-hub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/vrm-hub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0778-reorganize-string](https://github.com/vrm-hub/LeetCode/tree/master/0778-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -123,6 +128,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/vrm-hub/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vrm-hub/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0778-reorganize-string](https://github.com/vrm-hub/LeetCode/tree/master/0778-reorganize-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vrm-hub/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Simulation
 |  |
