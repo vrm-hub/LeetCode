@@ -18,6 +18,7 @@
 | [0056-merge-intervals](https://github.com/vrm-hub/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/vrm-hub/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/vrm-hub/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/vrm-hub/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/vrm-hub/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/vrm-hub/LeetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vrm-hub/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -96,6 +97,7 @@
 | [0020-valid-parentheses](https://github.com/vrm-hub/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/vrm-hub/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/vrm-hub/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/vrm-hub/LeetCode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/vrm-hub/LeetCode/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/vrm-hub/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/vrm-hub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -229,6 +231,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/vrm-hub/LeetCode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/vrm-hub/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/vrm-hub/LeetCode/tree/master/0079-word-search) |
 | [0348-design-tic-tac-toe](https://github.com/vrm-hub/LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [1036-rotting-oranges](https://github.com/vrm-hub/LeetCode/tree/master/1036-rotting-oranges) |
 ## Linked List
@@ -331,6 +334,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vrm-hub/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vrm-hub/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/vrm-hub/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/vrm-hub/LeetCode/tree/master/0099-recover-binary-search-tree) |
@@ -374,6 +378,7 @@
 | [0052-n-queens-ii](https://github.com/vrm-hub/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/vrm-hub/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/vrm-hub/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/vrm-hub/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vrm-hub/LeetCode/tree/master/0090-subsets-ii) |
 ## Queue
 |  |
