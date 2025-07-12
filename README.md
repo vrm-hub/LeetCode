@@ -76,6 +76,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/vrm-hub/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vrm-hub/LeetCode/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/vrm-hub/LeetCode/tree/master/0778-reorganize-string) |
+| [1949-implement-trie-ii-prefix-tree](https://github.com/vrm-hub/LeetCode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vrm-hub/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Sorting
 |  |
@@ -111,6 +112,7 @@
 | [0443-string-compression](https://github.com/vrm-hub/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/vrm-hub/LeetCode/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/vrm-hub/LeetCode/tree/master/0778-reorganize-string) |
+| [1949-implement-trie-ii-prefix-tree](https://github.com/vrm-hub/LeetCode/tree/master/1949-implement-trie-ii-prefix-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -225,6 +227,7 @@
 | [0271-encode-and-decode-strings](https://github.com/vrm-hub/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0303-range-sum-query-immutable](https://github.com/vrm-hub/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0348-design-tic-tac-toe](https://github.com/vrm-hub/LeetCode/tree/master/0348-design-tic-tac-toe) |
+| [1949-implement-trie-ii-prefix-tree](https://github.com/vrm-hub/LeetCode/tree/master/1949-implement-trie-ii-prefix-tree) |
 ## Math
 |  |
 | ------- |
@@ -400,4 +403,5 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/vrm-hub/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [1949-implement-trie-ii-prefix-tree](https://github.com/vrm-hub/LeetCode/tree/master/1949-implement-trie-ii-prefix-tree) |
 <!---LeetCode Topics End-->
