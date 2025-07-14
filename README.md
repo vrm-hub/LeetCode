@@ -44,6 +44,7 @@
 | [0348-design-tic-tac-toe](https://github.com/vrm-hub/LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0414-third-maximum-number](https://github.com/vrm-hub/LeetCode/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vrm-hub/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0695-max-area-of-island](https://github.com/vrm-hub/LeetCode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/vrm-hub/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/vrm-hub/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/vrm-hub/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -248,6 +249,7 @@
 | [0079-word-search](https://github.com/vrm-hub/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/vrm-hub/LeetCode/tree/master/0200-number-of-islands) |
 | [0348-design-tic-tac-toe](https://github.com/vrm-hub/LeetCode/tree/master/0348-design-tic-tac-toe) |
+| [0695-max-area-of-island](https://github.com/vrm-hub/LeetCode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/vrm-hub/LeetCode/tree/master/1036-rotting-oranges) |
 ## Linked List
 |  |
@@ -297,6 +299,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vrm-hub/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/vrm-hub/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/vrm-hub/LeetCode/tree/master/0695-max-area-of-island) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -368,6 +371,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vrm-hub/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vrm-hub/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vrm-hub/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/vrm-hub/LeetCode/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/vrm-hub/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -386,6 +390,7 @@
 | [0200-number-of-islands](https://github.com/vrm-hub/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/vrm-hub/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vrm-hub/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/vrm-hub/LeetCode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/vrm-hub/LeetCode/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/vrm-hub/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Backtracking
