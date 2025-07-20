@@ -79,6 +79,7 @@
 | [0348-design-tic-tac-toe](https://github.com/vrm-hub/LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0387-first-unique-character-in-a-string](https://github.com/vrm-hub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vrm-hub/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0460-lfu-cache](https://github.com/vrm-hub/LeetCode/tree/master/0460-lfu-cache) |
 | [0567-permutation-in-string](https://github.com/vrm-hub/LeetCode/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/vrm-hub/LeetCode/tree/master/0778-reorganize-string) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/vrm-hub/LeetCode/tree/master/1949-implement-trie-ii-prefix-tree) |
@@ -237,6 +238,7 @@
 | [0271-encode-and-decode-strings](https://github.com/vrm-hub/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0303-range-sum-query-immutable](https://github.com/vrm-hub/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0348-design-tic-tac-toe](https://github.com/vrm-hub/LeetCode/tree/master/0348-design-tic-tac-toe) |
+| [0460-lfu-cache](https://github.com/vrm-hub/LeetCode/tree/master/0460-lfu-cache) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/vrm-hub/LeetCode/tree/master/1949-implement-trie-ii-prefix-tree) |
 ## Math
 |  |
@@ -271,6 +273,7 @@
 | [0146-lru-cache](https://github.com/vrm-hub/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/vrm-hub/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vrm-hub/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0460-lfu-cache](https://github.com/vrm-hub/LeetCode/tree/master/0460-lfu-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -291,6 +294,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/vrm-hub/LeetCode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/vrm-hub/LeetCode/tree/master/0460-lfu-cache) |
 ## Merge Sort
 |  |
 | ------- |
