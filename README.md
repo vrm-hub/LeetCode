@@ -204,6 +204,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vrm-hub/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vrm-hub/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vrm-hub/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vrm-hub/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -245,6 +246,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/vrm-hub/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/vrm-hub/LeetCode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/vrm-hub/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vrm-hub/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/vrm-hub/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/vrm-hub/LeetCode/tree/master/0412-fizz-buzz) |
@@ -450,4 +452,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/vrm-hub/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vrm-hub/LeetCode/tree/master/0210-course-schedule-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vrm-hub/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
