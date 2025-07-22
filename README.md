@@ -48,6 +48,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/vrm-hub/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0695-max-area-of-island](https://github.com/vrm-hub/LeetCode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/vrm-hub/LeetCode/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/vrm-hub/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/vrm-hub/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/vrm-hub/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/vrm-hub/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -210,6 +211,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vrm-hub/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vrm-hub/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/vrm-hub/LeetCode/tree/master/0198-house-robber) |
+| [0747-min-cost-climbing-stairs](https://github.com/vrm-hub/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## Sliding Window
 |  |
 | ------- |
