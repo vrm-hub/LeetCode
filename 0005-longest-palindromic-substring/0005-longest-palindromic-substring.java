@@ -1,19 +1,24 @@
 class Solution {
-    private boolean isPalindrome(String s) {
-        for(int i = 0, j = s.length() - 1; i < j; i++, j--) {
-            if(s.charAt(i) != s.charAt(j)) return false;
-        }
+    private String res = " ";
+    private int resLen = 0;
+    private void checkPalindrome(String s, int i, int j) {
 
-        return true;
+        while(i >= 0 && j < s.length() && s.charAt(i) == s.charAt(j)) {
+            if(j - i + 1 > resLen) {
+                res = s.substring(i, j + 1);
+                resLen = j - i + 1;
+            }
+
+            i--;
+            j++;
+        }
     }
     public String longestPalindrome(String s) {
-        for(int i = s.length(); i > 0; i--) {
-            for(int j = 0; j < s.length() - i + 1; j++) {
-                String str = s.substring(j, j + i);
-                if(isPalindrome(str)) return str;
-            }
+        for(int i = 0; i < s.length(); i++) {
+            checkPalindrome(s, i, i);
+            checkPalindrome(s, i, i+1);
         }
 
-        return " ";
+        return resLen == 0 ? s.substring(0, 1) : res;
     }
 }
