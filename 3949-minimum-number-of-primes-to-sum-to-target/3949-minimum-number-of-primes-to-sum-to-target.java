@@ -15,27 +15,38 @@ class Solution {
         return res;
     }
     public int minNumberOfPrimes(int n, int m) {
-        List<Integer> primes = new ArrayList<>();
+        List<Integer> primes = isPrime(m);
         int num = 2;
         dp = new HashMap<>();
         dp.put(0, 0);
-
-        while (primes.size() < m) {
-            if (isPrime(num)) {
-                primes.add(num);
-            }
-            num++;
-        }
 
         int min = dfs(primes, n);
         return min == Integer.MAX_VALUE ? -1 : min;
     }
 
-    private boolean isPrime(int num) {
-        if (num < 2) return false;
-        for (int i = 2; i * i <= num; i++) {
-            if (num % i == 0) return false;
+    private List<Integer> isPrime(int n) {
+        int limit = (int)(n * (Math.log(n) + Math.log(Math.log(n)))) + 10;
+        List<Integer> primes = new ArrayList<>();
+        if (n <= 5) {
+            limit = 15;
         }
-        return true;
+
+        boolean[] isPrime = new boolean[limit + 1];
+        Arrays.fill(isPrime, true);
+        isPrime[0] = isPrime[1] = false;
+
+        for (int i = 2; i * i <= limit; i++) {
+            if (isPrime[i]) {
+                for (int j = i * i; j <= limit; j += i) {
+                    isPrime[j] = false;
+                }
+            }
+        }
+
+        for(int i = 2; i <= limit && primes.size() < n; i++) {
+            if(isPrime[i]) primes.add(i);
+        }
+
+        return primes;
     }
 }
