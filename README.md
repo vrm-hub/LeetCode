@@ -56,6 +56,7 @@
 | [1036-rotting-oranges](https://github.com/vrm-hub/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/vrm-hub/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vrm-hub/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/vrm-hub/LeetCode/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -222,6 +223,7 @@
 | [0198-house-robber](https://github.com/vrm-hub/LeetCode/tree/master/0198-house-robber) |
 | [0647-palindromic-substrings](https://github.com/vrm-hub/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/vrm-hub/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/vrm-hub/LeetCode/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -265,6 +267,7 @@
 | [0268-missing-number](https://github.com/vrm-hub/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/vrm-hub/LeetCode/tree/master/0412-fizz-buzz) |
 | [1014-k-closest-points-to-origin](https://github.com/vrm-hub/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/vrm-hub/LeetCode/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
 ## Matrix
 |  |
 | ------- |
@@ -470,4 +473,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vrm-hub/LeetCode/tree/master/0070-climbing-stairs) |
+## Number Theory
+|  |
+| ------- |
+| [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/vrm-hub/LeetCode/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
 <!---LeetCode Topics End-->
