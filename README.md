@@ -56,6 +56,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/vrm-hub/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/vrm-hub/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/vrm-hub/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/vrm-hub/LeetCode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vrm-hub/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/vrm-hub/LeetCode/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
 ## Hash Table
@@ -87,6 +88,7 @@
 | [0460-lfu-cache](https://github.com/vrm-hub/LeetCode/tree/master/0460-lfu-cache) |
 | [0567-permutation-in-string](https://github.com/vrm-hub/LeetCode/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/vrm-hub/LeetCode/tree/master/0778-reorganize-string) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/vrm-hub/LeetCode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/vrm-hub/LeetCode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vrm-hub/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Sorting
@@ -104,6 +106,7 @@
 | [0414-third-maximum-number](https://github.com/vrm-hub/LeetCode/tree/master/0414-third-maximum-number) |
 | [0778-reorganize-string](https://github.com/vrm-hub/LeetCode/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/vrm-hub/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/vrm-hub/LeetCode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vrm-hub/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## String
 |  |
@@ -129,6 +132,7 @@
 | [0567-permutation-in-string](https://github.com/vrm-hub/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/vrm-hub/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0778-reorganize-string](https://github.com/vrm-hub/LeetCode/tree/master/0778-reorganize-string) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/vrm-hub/LeetCode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/vrm-hub/LeetCode/tree/master/1949-implement-trie-ii-prefix-tree) |
 ## Divide and Conquer
 |  |
