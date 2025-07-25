@@ -16,6 +16,7 @@
 | [0039-combination-sum](https://github.com/vrm-hub/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vrm-hub/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/vrm-hub/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/vrm-hub/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/vrm-hub/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/vrm-hub/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/vrm-hub/LeetCode/tree/master/0078-subsets) |
@@ -134,6 +135,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vrm-hub/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/vrm-hub/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/vrm-hub/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vrm-hub/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vrm-hub/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vrm-hub/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -214,6 +216,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vrm-hub/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/vrm-hub/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/vrm-hub/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/vrm-hub/LeetCode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vrm-hub/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
