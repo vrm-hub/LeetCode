@@ -17,6 +17,7 @@
 | [0040-combination-sum-ii](https://github.com/vrm-hub/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/vrm-hub/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vrm-hub/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/vrm-hub/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/vrm-hub/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/vrm-hub/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/vrm-hub/LeetCode/tree/master/0078-subsets) |
@@ -180,6 +181,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vrm-hub/LeetCode/tree/master/0054-spiral-matrix) |
 | [0348-design-tic-tac-toe](https://github.com/vrm-hub/LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0412-fizz-buzz](https://github.com/vrm-hub/LeetCode/tree/master/0412-fizz-buzz) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vrm-hub/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -279,6 +281,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/vrm-hub/LeetCode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/vrm-hub/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/vrm-hub/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/vrm-hub/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/vrm-hub/LeetCode/tree/master/0130-surrounded-regions) |
