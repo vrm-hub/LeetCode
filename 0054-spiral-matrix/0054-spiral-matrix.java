@@ -1,31 +1,39 @@
 class Solution {
     private static int[][] dirs = {{0,1}, {1,0}, {0, -1}, {-1, 0}};
+    private int r = 0, c = 0;
+    private boolean[][] visited;
+    private int count = 0;
+    private int currDir = 0;
+
+    private void resetDir() {
+        r = r - dirs[currDir][0];
+        c = c - dirs[currDir][1];
+        currDir++;
+        
+        if(currDir == 4) {
+            currDir = 0;
+        }
+        
+        r = r + dirs[currDir][0];
+        c = c + dirs[currDir][1];
+    }
+    
     public List<Integer> spiralOrder(int[][] matrix) {
         int n = matrix.length;
         int m = matrix[0].length;
         List<Integer> res = new ArrayList<>();
-        int count= 0;
         int total = n * m;
-        boolean[][] visited = new boolean[n][m];
-        int i = 0, j = 0;
-        int d = 0;
+        visited = new boolean[n][m];
 
         while(count < total) {
-            if(j >= m || j < 0 || i < 0 || i >= n || visited[i][j]) {
-                i = i - dirs[d][0];
-                j = j - dirs[d][1];
-                d++;
-                if(d == 4) {
-                    d = 0;
-                }
-                i = i + dirs[d][0];
-                j = j + dirs[d][1];
+            if(c >= m || c < 0 || r < 0 || r >= n || visited[r][c]) {
+                resetDir();
             }
-            res.add(matrix[i][j]);
+            res.add(matrix[r][c]);
             count++;
-            visited[i][j] = true;
-            i = i + dirs[d][0];
-            j = j + dirs[d][1];
+            visited[r][c] = true;
+            r = r + dirs[currDir][0];
+            c = c + dirs[currDir][1];
         }
 
         return res;
