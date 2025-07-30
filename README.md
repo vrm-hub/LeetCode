@@ -139,6 +139,7 @@
 | [0778-reorganize-string](https://github.com/vrm-hub/LeetCode/tree/master/0778-reorganize-string) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/vrm-hub/LeetCode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/vrm-hub/LeetCode/tree/master/1949-implement-trie-ii-prefix-tree) |
+| [3931-process-string-with-special-operations-i](https://github.com/vrm-hub/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -189,6 +190,7 @@
 | [0348-design-tic-tac-toe](https://github.com/vrm-hub/LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0412-fizz-buzz](https://github.com/vrm-hub/LeetCode/tree/master/0412-fizz-buzz) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vrm-hub/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3931-process-string-with-special-operations-i](https://github.com/vrm-hub/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
