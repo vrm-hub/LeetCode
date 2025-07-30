@@ -16,6 +16,7 @@
 | [0039-combination-sum](https://github.com/vrm-hub/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vrm-hub/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/vrm-hub/LeetCode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/vrm-hub/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/vrm-hub/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vrm-hub/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vrm-hub/LeetCode/tree/master/0054-spiral-matrix) |
@@ -195,6 +196,7 @@
 | [0011-container-with-most-water](https://github.com/vrm-hub/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vrm-hub/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/vrm-hub/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/vrm-hub/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/vrm-hub/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/vrm-hub/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/vrm-hub/LeetCode/tree/master/0143-reorder-list) |
@@ -226,6 +228,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vrm-hub/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/vrm-hub/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vrm-hub/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/vrm-hub/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/vrm-hub/LeetCode/tree/master/0091-decode-ways) |
@@ -250,6 +253,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vrm-hub/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/vrm-hub/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vrm-hub/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/vrm-hub/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vrm-hub/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -348,6 +352,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vrm-hub/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/vrm-hub/LeetCode/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
