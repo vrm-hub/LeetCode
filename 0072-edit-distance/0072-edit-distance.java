@@ -10,7 +10,7 @@ class Solution {
             return w2.length - w2Index;
         }
 
-        if(dp[w1Index][w2Index] != -1) return dp[w1Index][w2Index];
+        if(w1Index < w1.length && w2Index < w2.length && dp[w1Index][w2Index] != -1) return dp[w1Index][w2Index];
 
         if(w1[w1Index] == w2[w2Index]) return dfs(w1, w2, w1Index + 1, w2Index + 1);
 
