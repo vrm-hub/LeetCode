@@ -29,7 +29,7 @@ class Solution {
     public int minDistance(String word1, String word2) {
         char[] w1 = word1.toCharArray();
         char[] w2 = word2.toCharArray();
-        dp = new int[word1.length() + 1][word2.length() + 1];
+        dp = new int[word1.length()][word2.length()];
         for(int i = 0; i < dp.length; i++) Arrays.fill(dp[i], -1);
 
         return dfs(w1, w2, 0, 0);
